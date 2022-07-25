@@ -1,0 +1,2 @@
+1. Generics no funcion to tipos promitivos como **int**, **double**, etc.
+2. Generics en java es usado para crear funcionalidad generica cuando una funcionalidad es igualmente necesaria pra distintos tipos de objectos.
